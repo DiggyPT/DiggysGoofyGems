@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "diggys_goofy_gems:turbo_counter" },
+    "facing=south": { "model": "diggys_goofy_gems:turbo_counter", "y": 180 },
+    "facing=west":  { "model": "diggys_goofy_gems:turbo_counter", "y": 270 },
+    "facing=east":  { "model": "diggys_goofy_gems:turbo_counter", "y": 90 }
+  }
+}

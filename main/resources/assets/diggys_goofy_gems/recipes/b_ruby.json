@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GGG",
+        "GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "diggys_goofy_gems:ruby"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:block_ruby"
+    }
+}

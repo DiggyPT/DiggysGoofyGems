@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GG ",
+        "GS ",
+        " S "
+    ],
+    "key": {
+        "G": {
+            "item": "diggys_goofy_gems:sapphire"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:axe_sapphire"
+    },
+    "mirrored": true
+}

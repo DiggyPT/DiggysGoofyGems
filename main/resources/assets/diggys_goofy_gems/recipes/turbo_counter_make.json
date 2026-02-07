@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S S",
+        " C ",
+        "S S"
+    ],
+    "key": {
+        "S": {
+            "item": "diggys_goofy_gems:sapphire"
+        },
+		"C": {
+            "item": "diggys_goofy_gems:counter"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:turbo_counter"
+    }
+}

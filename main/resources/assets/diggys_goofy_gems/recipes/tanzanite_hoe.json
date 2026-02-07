@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GG ",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "G": {
+            "item": "diggys_goofy_gems:tanzanite"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:hoe_tanzanite"
+    },
+    "mirrored": true
+}

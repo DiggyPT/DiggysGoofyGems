@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "E"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:emerald_nugget",
+		"count": 9
+    },
+    "mirrored": true
+}

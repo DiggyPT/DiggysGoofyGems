@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IIR",
+        "RDR",
+        "IIR"
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:ruby"
+        },
+		"I": {
+            "item": "minecraft:iron_ingot"
+        },
+		"D": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:counter"
+    }
+}

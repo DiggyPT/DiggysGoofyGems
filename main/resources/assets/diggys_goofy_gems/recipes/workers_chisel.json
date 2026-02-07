@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R",
+        "S"
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:workers_compound"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:workers_chisel"
+    }
+}

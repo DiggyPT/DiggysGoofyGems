@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " R ",
+        " R ",
+        " S "
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:ruby"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:sword_ruby"
+    }
+}

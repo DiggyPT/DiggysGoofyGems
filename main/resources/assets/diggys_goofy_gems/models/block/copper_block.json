@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "diggy_industry:blocks/copper_block"
+    }
+}

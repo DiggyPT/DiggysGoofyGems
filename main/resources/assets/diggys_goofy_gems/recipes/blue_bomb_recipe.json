@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        " T ",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "diggys_goofy_gems:sapphire"
+        },
+        "T": {
+            "item": "minecraft:tnt"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:blue_bomb"
+    }
+}

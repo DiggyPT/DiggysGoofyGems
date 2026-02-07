@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "diggys_goofy_gems:block_tanzanite"
+        }
+    ],
+    "result": {
+        "item": "diggys_goofy_gems:tanzanite",
+        "count": 9
+    }
+} 

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "G": {
+            "item": "diggys_goofy_gems:sapphire"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:shovel_sapphire"
+    }
+}

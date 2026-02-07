@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "diggys_goofy_gems:ore_single_emerald" },
+    "facing=south": { "model": "diggys_goofy_gems:ore_single_emerald", "y": 180 },
+    "facing=west":  { "model": "diggys_goofy_gems:ore_single_emerald", "y": 270 },
+    "facing=east":  { "model": "diggys_goofy_gems:ore_single_emerald", "y": 90 }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RS",
+        "GC"
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:ruby_dust"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "G": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:workers_compound",
+        "count": 4
+    }
+}

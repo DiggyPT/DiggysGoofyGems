@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "R R",
+        "RTR",
+        "TRT"
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:ruby"
+        },
+        "T": {
+            "item": "diggys_goofy_gems:tanzanite"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:gem_spikes"
+    }
+}

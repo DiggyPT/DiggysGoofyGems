@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RR ",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:ruby"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:hoe_ruby"
+    },
+    "mirrored": true
+}

@@ -1,0 +1,29 @@
+//items
+
+item.copper_ingot.name=Copper Ingot
+
+//blocks
+
+tile.block_ruby.name=Block of Ruby
+tile.block_sapphire.name=Block of Sapphire
+tile.block_tanzanite.name=Block of Tanzanite
+
+tile.ore_ruby.name=Ruby Ore
+tile.ore_sapphire.name=Sapphire Ore
+tile.ore_tanzanite.name=Tanzanite Ore
+tile.ore_single_emerald.name=Just One Emerald Ore
+
+tile.blue_bomb.name=Blue Bomb
+tile.gem_spikes.name=Gem Spikes
+tile.counter.name=Counter
+tile.turbo_counter.name=Turbo Counter
+tile.crate.name=Crate
+
+tile.ore_overworld.ruby.name=Ruby Ore
+tile.ore_overworld.sapphire.name=Sapphire Ore
+tile.ore_overworld.tanzanite.name=Tanzanite Ore
+
+//creative tab
+itemGroup.diggyindustrytab=DiggyIndustry
+
+message.diggys_goofy_gems.counter_par=Counter: %d

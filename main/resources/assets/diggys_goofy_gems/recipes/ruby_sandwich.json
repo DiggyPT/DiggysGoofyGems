@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "B",
+        "R",
+        "B"
+    ],
+    "key": {
+        "R": {
+            "item": "diggys_goofy_gems:ruby"
+        },
+        "B": {
+            "item": "minecraft:bread"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:ruby_sandwich"
+    }
+}

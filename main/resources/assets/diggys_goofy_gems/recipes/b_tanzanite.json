@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GGG",
+        "GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "diggys_goofy_gems:tanzanite"
+        }
+    },
+    "result": {
+        "item": "diggys_goofy_gems:block_tanzanite"
+    }
+}
